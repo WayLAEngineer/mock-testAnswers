@@ -139,12 +139,13 @@ html{
     content: "";
     position: absolute;
     /* background: url('bg.jpg') no-repeat center center/cover; */
-    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url('bg.jpg') ;
+    background: linear-gradient(rgb(44 36 201 / 50%),rgb(79 175 47 / 50%)),url(bg.jpg);
     height: 107%;
     width: 100%;
     z-index: -1;
     opacity: 0.8;
 }
+
 #home h1{
     color: white;
     text-align: center;
@@ -165,6 +166,17 @@ html{
 }
 #tArea{
     padding: 2px;
+}
+
+#htu-section::before{
+    content: "";
+    position: absolute;
+    /* background: url('bg.jpg') no-repeat center center/cover; */
+    background: linear-gradient(rgb(36 119 201 / 40%),rgb(246 249 0 / 30%)),url(bg.jpg);
+    height: 53%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.8;
 }
 
 #madeby{
