@@ -932,6 +932,161 @@ map2.set(``,``);
 map2.set(``,``);
 
 
+
+
+
+map2.set(`10% of salary of P is equal to 30% of salary of Q and 20 % of salary of Q is equal to 40 % of salary of R. If R’s income is Rs. 4000, then the total income of P, Q and R is?`,`36000`);
+
+map2.set(`If X and Y are 25% and 35 % less than Z then what % Y is less than X`,`13.33%`);
+
+map2.set(`A broker charges commission of 5% on all orders upto Rs.10,000 and 4% on all orders exceeding Rs. 10,000. He remits Rs. 31,100 to his client after deducting his commission. Find the order amount.`,`32500`);
+map2.set(`A man spends 60% of his income. His income is increased by 20% and his expenditure also increases by 10%. Find the percentage decrease in his saving?`,`10%`);
+map2.set(`When the price of rice is increased by 30 percent, a family reduces its consumption such that the expenditure is only 20 percent more than before. If 50 kg of rice is consumed by family before, then find the new consumption of family (approx.)`,`46kg`);
+map2.set(`40% of the women are above 30 years of age and 80 percent of the women are less than or equal to 50 years of age. 20 percent of all women play basketball. If 30 percent of the women above the age of 50 plays basketball, what percent of players are less than or equal to 50 years?`,`70%`);
+map2.set(`The population of a town is 15000. It increases by 10 percent in the first year and 20 percent in the second year. But in the third year it decreases by 10 percent. What will be the population after 3 years.`,`17820`);
+map2.set(`A solution contains 10% of salt by weight. On evaporation 15 litre of water evaporates and now concentration of salt becomes 20 percent. Find the initial quantity of solution`,`30L`);
+map2.set(`A trader marks the price at 8 percent higher than the original price. Due to the hike in demand he again increases the price by 10 percent. How much percent profit he gets.`,`18.8%`);
+map2.set(`Pankaj gave 50 percent of the amount to akash. Akash in turn gave two-fifth of the amount to venu. After paying a bill of 500 rupees, venu now have 8000 rupees left with him. Find the amount hold by pankaj initially.`,`42500`);
+map2.set(`Rakesh spent 30 percent of his monthly income on food items. Of the remaining amount he spent 60 percent on clothes and bills. Now he save five-seventh of the remaining amount and the he saves 120000 yearly, then find his monthly income.`,`50000`);
+map2.set(`One type of liquid contains 20 percent of milk and second type of liquid contains 40 percent milk. If 4 part of the first and 6 part of the second are mix, then what is the percent of water in the mixture.`,`68%`);
+map2.set(`Mixture 1 contains 20% of water and mixture 2 contains 35% of water. 10 parts from 1st mixture and 4 parts from 2nd mixture is taken and put in a glass. What is the percentage of water in the new mixture of glass?`,`24 (2/7) %`);
+map2.set(`In an alloy, there is 15% of brass, to get 90 kg of brass, how much alloy is needed ?`,`600kg`);
+map2.set(`From the salary, Akilesh spent 15% for house rent, 5% for children’s education and 15% for Entertainment. Now he left with Rs.13,000. His salary is`,`20000`);
+map2.set(`In an examination 30% of the students failed in Science, 45% of the students failed in Maths and 25% of the students failed in both subjects. Find the % of the students passed?`,`50%`);
+map2.set(`In an examination Ammu scored 56% marks, Saran scored 90% marks and Rima scored 650 marks that is 65% then find the total marks of three students?`,`2110`);
+map2.set(`The population of a village is decreased by 12% and  10% in 2 successive years. What % population is decreased after 2 years ?`,`20.8%`);
+map2.set(`In a cricket between 2 teams, Team ‘x’ gets 70% of the total score and defeated team ‘y’ by 72 runs. The no of runs scored by winner?`,`126 runs`);
+map2.set(`In a poll, Raghu got 84% of the total valid votes. If 25 % of the total votes were declared invalid and the total numbers of votes is 884000, find the number of valid vote polled in favour of Raghu.`,`556920`);
+map2.set(`The cost of a camera is Rs.2000 more than that of a phone. If 3 phones and 3 camera cost is Rs.24000, by what percent is the cost of the phone less than the cost of the camera?`,`40%`);
+map2.set(`Harini scored 20% marks and failed by 10 marks, Stenika scored 30% marks and obtained 25 marks more than those required to pass. Find the passing marks and 42 % of the maximum marks?`,`80,147`);
+map2.set(`In a company ABC Pvt ltd, the ratio of total number of undergraduate employees to the total number of graduate employees is 13:23. The company has only two branches- one is in Chennai and another is in Delhi. If the total number of undergraduate employees in Chennai branch is 351, Which is 30% of the total undergraduate employees in the company, what is the total number of graduate employees in the company?`,`2070`);
+map2.set(`In an election a person wins over another one by a marginal difference of 680 votes which 17% of total votes. In election 15% votes are invalid. Find the valid votes?`,`3400`);
+map2.set(`A person can buy 5 more kg of apples in Rs.165 when the price of apples reduced by 20%.What is the reduced price of apple per kg ?`,`6.6/kg`);
+map2.set(`A shopkeeper sold an article at 12% discount and earned a profit 4%.Then how much marked price of an article more than cost price?(approx.)`,`9`);
+map2.set(`In the IPL match an analysis was done for the two openers of both teams: Mumbai Indians (MI) and Deccan Chargers (DC). It was found that the two Mumbai Indians openers Ricky and Sachin together scored 20% more than what the two DC openers Sehwag and Gambhir scored. Gambhir scored 30 and Sachin scored 40. How much percentage less/more did Sehwag score than Ricky, if Ricky scored 80?`,`12.5 % less`);
+map2.set(`Forty per cent of the employees of a certain company are male and 75% of the male earn more than Rs. 25000 per year. If 45% of the company’s employees earn more than Rs. 25000 per year, what fraction of the females employed by the company earn Rs. 25000 or less per year?`,`3/4`);
+map2.set(`numbers are less than the third number by 50% and 54% respectively. By
+
+how much per cent is the second number less than the first number ?`,`None of these`);
+map2.set(`If a man after spending 85% of the income he saves Rs. 4560 per month, his monthly income is`,`30400`);
+map2.set(`Pradeep invested 20% more than Mohit. Mohit invested 10% less than Raghu. If the total sum of their investment is Rs.17880, How much amount did  Raghu invest?
+
+`,`6000`);
+map2.set(`election between two candidates, one got 52% of the valid votes. 25% of the total votes were invalid. The total number of votes were 8400. How many valid votes did the other person get?`,`3024`);
+map2.set(`A student scores 55% marks in 8 papers of 100 marks each. He scores 15% of his total marks in English. How much does he score in English?`,`66`);
+map2.set(`A student has to secure a minimum 35% marks to pass in an examination. If he gets 200 marks and fails by 10 marks, then the maximum marks are:`,`600`);
+map2.set(`Kamala got married six years ago and her present age is 1 ¼ times her age at the time of her marriage. Age of her son is 10% of her present age. What is her son’s age ?`,`3 years`);
+
+
+
+
+//VA
+map2.set(`In the following the question choose the word which best expresses the meaning of the given word.
+
+MAYHEM`,`Havoc`);
+map2.set(`In the following the question choose the word which best expresses the meaning of the given word.
+
+CONNOISSEUR`,`Lover of art`);
+map2.set(`Some proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.
+
+To catch a tartar`,`To catch a dangerous person`);
+map2.set(`Following question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.
+
+GRAIN:SALT`,`chip: glass`);
+map2.set(`Following question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.
+
+THRUST:SPEAR`,`fence: epee`);
+map2.set(`Following question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.
+
+PAIN:SEDATIVE`,`grief: consolation`);
+map2.set(`Following question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.
+
+INDIGENT:WEALTHY`,`gauche: graceful`);
+map2.set(`Following question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.
+
+TEN:DECIMAL`,`two: binary`);
+map2.set(`Fill in the Blanks.
+
+I would like to __________ your attention to the last paragraph of my essay __________ to the terms of sale of the goods.`,`draw, pertaining`);
+map2.set(`In the following question there are two sentences. Each sentence has a blank in it. Five options are given below the sentence pair. Choose the option that fits both the blanks.
+He told the shopkeeper to settle on a ....... price.
+We went to the ...... where my daughter bought several hair clips.`,`Fair`);
+map2.set(`In the following question there are two sentences. Each sentence has a blank in it. Five options are given below the sentence pair. Choose the option that fits both the blanks.
+When he refused to attend the after-dinner party she told him to ....himself.
+He bought a designer ....... for himself. `,`Suit`);
+map2.set(`choose the alternative which is the nearest opposite of the given word.
+
+Profane`,`holy`);
+map2.set(`choose the alternative which is the nearest antonym of the given word.
+
+Sophomoric`,`profound`);
+map2.set(`choose the alternative which is the nearest opposite of the given word.
+
+Finesse`,`witlessness`);
+map2.set(`choose the alternative which is the nearest antonym of the given word.
+
+Opportune`,`Untimely`);
+map2.set(`choose the alternative which is the nearest antonym of the given word.
+
+Precocious`,`Backward`);
+map2.set(`In the following sentences there are blank space/s. Find out which word or pair of words can be filled up in the blanks in the sentence in the same sequence to make it grammatically correct.
+
+If the wind in a tropical depression exceeds this speed, it is ___ to a ‘tropical storm’ and ____ a personal name.`,`upgraded, assigned`);
+map2.set(`In the following sentences there are blank space/s. Find out which word or pair of words can be filled up in the blanks in the sentence in the same sequence to make it grammatically correct.
+You expect us to stay in such a________ building even if it can be hired on a nominal rent?`,`Scruffy`);
+map2.set(`In the following sentences there are blank space/s. Find out which word or pair of words can be filled up in the blanks in the sentence in the same sequence to make it grammatically correct.
+
+The visit had a unique start with the President _______ his home state and, in doing so, _______ his priorities.`,`showcasing, signalling`);
+map2.set(`In the following sentences there are blank space/s. Find out which word or pair of words can be filled up in the blanks in the sentence in the same sequence to make it grammatically correct.
+
+________to popular belief that meat makes humans ________, they have found that it has a calming effect.`,`contrary, aggressive`);
+map2.set(`In each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.
+Even if it rains I shall come means......`,`I will certainly come whether it rains or not`);
+map2.set(`In each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.
+
+His appearance is unsmiling but......`,`his heart is full of compassion for others`);
+map2.set(`In each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.
+She never visits any zoo because she is strong opponent of the idea of......`,`holding the animals in captivity for our joy`);
+map2.set(`Given below are sentences which have been presented in a random order. Arrange the following sentences in a proper sequence to form a meaningful paragraph and identify the correct sequence
+
+A. In India, in the last 4 - 5 years, some US funds have entered. 
+B. US funds like draper and Walden have played an important role in kick-starting the venture capital industry in India. 
+C. Draper in particular played a pioneering role. 
+D. This was the second wave of venture capital.
+E. The third wave is people coming back from the US and moving into venture capital - like myself.
+F. Venture capital started about 15 years ago, with some government – backed funds.`,`FABCDE`);
+map2.set(`Given below are sentences which have been presented in a random order. Arrange the following sentences in a proper sequence to form a meaningful paragraph and identify the correct sequence
+
+A. Electronic transactions are happening in closed group networks and Internet. Electronic commerce is one of the most important aspects of Internet to emerge.
+B. Cash transactions offer both privacy and anonymity as it does not contain information that can be used to identify the parties nor the transaction history.
+C. To support e-commerce, we need effective payment systems and secure communication channels and data integrity.
+D. The whole structure of traditional money is built on faith and so will electronic money have to be.
+E. Moreover, money is worth what it is because we have come to accept it.`,`BEDAC`);
+map2.set(`In the following the question choose the word which best expresses the meaning of the given word.
+
+ 
+WARY`,`vigilant`);
+map2.set(`In the following the question choose the word which best expresses the meaning of the given word.
+
+RABBLE`,`Mob`);
+map2.set(`Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part
+is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).`,`If a man diligently seeks to come into the contact`);
+map2.set(`Read the following passage and answer the question-
+
+Organisations are institutions in which members compete for status and power. They compete for resource of the organisation, for example finance to expand their own departments, for career advancement and for power to control the activities of others. In pursuit of these aims, grouped are formed and sectional interests emerge. As a result, policy decisions may serve the ends of political and career systems rather than those of the concern. In this way, the goals of the organisation may be displaced in favor of sectional interests and individual ambition. These preoccupations sometimes prevent the emergence of organic systems. Many of the electronic firms in the study had recently created research and development departments employing highly qualified and well paid scientists and technicians. Their high pay and expert knowledge were sometimes seen as a threat to the established order of rank, power and privilege. Many senior managers had little knowledge of technicality and possibilities of new developments and electronics. Some felt that close cooperation with the experts in an organic system would reveal their ignorance and show their experience was now redundant.
+
+Policy decision in organization would involve-`,`attracting highly qualified personnel`);
+map2.set(`Given below are sentences which have been presented in a random order. Arrange the following sentences in a proper sequence to form a meaningful paragraph and identify the correct sequence.
+
+A. This is because your witness will be called upon to testify in court if the will is ever challenged. 
+B. Lawyers advise people to use witnesses who are younger than they and are likely to outlive them. 
+C. You can make a will as simple as you want. You will need to sign the document in the presence of two witnesses, who will then have to put the signature on it. 
+D. It helps if a doctor is a witness or the document is signed in his presence.
+E. This is because he could be called upon to testify to the stability of your mental condition when you drew up the will.`,`CBADE`);
+map2.set(``,``);
+map2.set(``,``);
+
+
 let x = document.getElementById("tArea");
 
 x.addEventListener('input', function () {
