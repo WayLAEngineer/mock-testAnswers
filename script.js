@@ -1087,6 +1087,116 @@ map2.set(``,``);
 map2.set(``,``);
 
 
+//verbal
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+The picture hangs_____ my bed.`,`above`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+The cat ran _____the dog.`,`after`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+The bird flew _____ the window.`,`against`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+They're walking_____ the beach.`,`along`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+I like being  _____people.`,`among`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+We're sitting _____ the campfire.`,`around`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+I arrived _____ the meeting.`,`at`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+Our house is_____ the supermarket.`,`behind`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+Death Valley is 86 meters _____ sea level.`,`below`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+I didn’t know what to tell you _____ last night.`,`until`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+Candidates have to write their names_____ the top of the page.`,`At`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+She has always been _____my side during my tough times.`,`by`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+She learned Russian _____ the age of 45.`,`at`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+He came _____ the hill.`,`down`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+
+A drowning man ________ a straw.`,`Catches at`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+He died ________ his country.`,`for`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+You must ask apology ________ him ________ your rudeness.`,`To, for`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+On the night before the exam, she was seen pouring ________ the books.`,`over`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+What is the time ________ you watch?`,`by`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+Let’s discuss ________ the ways of improving the basic skills of English.`,`no preposition is needed`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+The chief guest of the seminar spoke to the audience concerning_____career.`,`their`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+He felt no qualms ________ borrowing money from his friends.`,`about`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+Cyber-attacks are much easier to carry out than to defend ________.`,`against`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+We are related ________each other ________marriage.`,`to,by`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+Finding himself short _____ money, he wrote _______ his uncle ________ help.`,`of,to,for`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+The man was blind ________ his left eye.`,`of`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+John is senior ________ me 4 ________ years.`,`to,by`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+
+________ being fined, he was sentenced to a term of imprisonment.`,`besides`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+In some countries much of the natural environment has been transformed ________farmland ________ a subsequent loss of species richness.`,`into, as a result of`);
+map2.set(`Directions: Complete the following sentence with the correct preposition
+
+Mr. Hawking was walking ________ a wood ________ a rainy day.`,`through,on`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+A drowning man ________ a straw.`,`Catches at`);
+map2.set(`Directions: Complete the following sentence with the correct preposition.
+
+I didn’t know what to tell you _____ last night.`,`until`);
+map2.set(``,``);
+map2.set(``,``);
+
+
 let x = document.getElementById("tArea");
 
 x.addEventListener('input', function () {
